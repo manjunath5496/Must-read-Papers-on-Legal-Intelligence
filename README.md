@@ -83,7 +83,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(38).pdf" style="text-decoration:none;">Sentence Extraction for Legal Text Summarisation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(39).pdf" style="text-decoration:none;">Predicting the Law Area and Decisions of French Supreme Court Cases</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(40).pdf" style="text-decoration:none;">AI4J &minus; Artificial Intelligence for Justice</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(41).pdf" style="text-decoration:none;">General Relativity and Gravitation: A Centennial Perspective (1-32)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(41).pdf" style="text-decoration:none;">Artificial Legal Intelligence</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(42).pdf" style="text-decoration:none;">Summarising Legal Texts: Sentential Tense and Argumentative Roles</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(43).pdf" style="text-decoration:none;">A Rhetorical Status Classifier for Legal Text Summarisation</a></li>
@@ -96,4 +96,11 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(48).pdf" style="text-decoration:none;">Few-Shot Charge Prediction with Discriminative Legal Attributes</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(49).pdf" style="text-decoration:none;">Charge-Based Prison Term Prediction with Deep Gating Network</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(50).pdf" style="text-decoration:none;">Legal Intelligence</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Legal-Intelligence/blob/master/pli(51).pdf" style="text-decoration:none;">Legal Intelligence Through Artificial Intelligence Requires Emotional Intelligence: A New Competency Model for the 21st Century Legal Professional</a></li>
+
+
+
    </ul>                           
